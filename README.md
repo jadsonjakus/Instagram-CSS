@@ -1,2 +1,0 @@
-# Instagram-CSS
-TREINAMENTO DE CSS FLEX BOX
